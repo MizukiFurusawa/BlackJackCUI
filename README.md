@@ -1,5 +1,5 @@
-﻿# BlackJackDx
-dxlibraryを使ってBlackJackを作ってみよう(GUI版).
+﻿# BlackJackCUI
+BlackJackを作ってみよう(CUI版).
 
 ## ScreenShot
-![result](https://raw.githubusercontent.com/MizukiFurusawa/BlackJackDx/mizuki_dev/img/cap01.gif)
+![result](https://raw.githubusercontent.com/MizukiFurusawa/BlackJackCUI/mizuki_dev/img/cap01.gif)
